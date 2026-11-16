@@ -17,11 +17,11 @@
 
 ### 桌面灵动岛与任务球
 
-![LumiTasks 桌面预览](docs/screenshots/overview.png)
+![LumiTasks 桌面预览](docs/screenshots/overview.png.png)
 
 ### 任务管理与设置
 
-![LumiTasks 设置界面](docs/screenshots/settings.png)
+![LumiTasks 设置界面](docs/screenshots/settings.png.png)
 
 ## 功能
 
