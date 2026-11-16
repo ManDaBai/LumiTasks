@@ -1,4 +1,3 @@
-
 ---
 name: "🐛 Bug 反馈"
 about: "报告 LumiTasks 使用过程中遇到的问题"
