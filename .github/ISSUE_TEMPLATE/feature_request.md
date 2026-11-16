@@ -1,4 +1,3 @@
-
 ---
 name: "💡 功能建议"
 about: "提出 LumiTasks 新功能或改进建议"
