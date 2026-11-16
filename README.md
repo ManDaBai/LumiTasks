@@ -75,8 +75,8 @@ LumiTasks 基于 MIT License 开源。
 
 欢迎使用者反馈问题或提出建议。
 
-- [提交 Bug 或运行问题](https://github.com/ManDaBai/LumiTasks/issues/new)
-- [提出新功能建议](https://github.com/ManDaBai/LumiTasks/issues/new)
+- [提交 Bug 或运行问题](https://github.com/ManDaBai/LumiTasks/issues/new?template=bug_report.md)
+- [提出新功能建议](https://github.com/ManDaBai/LumiTasks/issues/new?template=feature_request.md)
 
 反馈时请尽量说明系统版本、LumiTasks 版本、问题发生步骤，并附上相关截图。
 
