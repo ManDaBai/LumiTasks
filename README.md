@@ -44,22 +44,23 @@ dotnet publish .\src\LumiTasks.csproj -c Release -r win-x64 --self-contained tru
 - 在设置中调整顶部灵动岛的大小与外观。
 - 程序将任务保存在当前 Windows 用户的 `%LOCALAPPDATA%\LumiTasksWPFPreview` 路径中，请妥善备份。
 
-## 开源发布前需要完成
 
-1. **选择许可证**：MIT 许可更宽松；GPL-3.0 要求发布衍生作品时遵循相应开源义务。正式公开前，在仓库根目录添加 `LICENSE`。本准备包不擅自替作者决定许可证。
-2. **确认素材权利**：检查 `src/Assets` 中的图标与任务球图片是否允许公开再分发。
-3. **提供可执行下载**：在 GitHub 的 **Releases** 页面上传 Windows 已测试的正式 EXE 或安装程序，勿把早期升级补丁当作首次安装程序。
-4. **添加截图**：使用不包含私人任务内容的图片，存入 `docs/screenshots/`（可自行创建）。
-5. **执行隐私检查**：公开之前再次检查代码中有无令牌、账号、真实姓名、用户路径或个人数据。
+## 🛡️ 开源许可证
 
-## 问题反馈
+LumiTasks 基于 MIT License 开源。
 
-可通过 GitHub Issues 提交 bug 复现步骤、Windows 版本、程序版本和报错日志。**上传日志前请删除用户名、真实路径、任务内容等个人信息。**
+详细信息请查看 [LICENSE](LICENSE) 文件。
 
-## License
+## 💬 问题反馈与功能建议
 
-尚待仓库所有者选择并添加正式开源许可证；当前仅为发布准备工程，不代表已授予任何特定开源许可。
+欢迎使用者反馈问题或提出建议。
+
+- [提交 Bug 或运行问题](https://github.com/ManDaBai/LumiTasks/issues/new)
+- [提出新功能建议](https://github.com/ManDaBai/LumiTasks/issues/new)
+
+反馈时请尽量说明系统版本、LumiTasks 版本、问题发生步骤，并附上相关截图。
+
+请勿公开个人任务数据或敏感信息。
+
 
 ---
-
-**English:** LumiTasks is a Windows desktop task manager built with C# / WPF and .NET 8. See the Chinese sections above for build instructions. Choose a LICENSE and verify bundled assets before publishing the repository publicly.
