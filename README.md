@@ -1,10 +1,30 @@
+
 # LumiTasks
 
 **LumiTasks** 是一款适用于 Windows 的桌面任务管理工具，采用悬浮“灵动岛”主栏与任务球来展示日常任务、提醒和计时。
 
-> 公开工程准备版：**V4.2.5**。这是源代码工程；用户可直接下载的安装版程序应另行在 GitHub Releases 发布。
+## 📥 下载 LumiTasks
+
+**最新版本：v4.2.5**
+
+支持 Windows 10 / 11（64 位）。
+
+[⬇ 下载 Windows 正式版](https://github.com/ManDaBai/LumiTasks/releases/latest)
+
+下载 ZIP 压缩包，解压后双击 `LumiTasks.exe` 即可运行，无需安装。
+
+## 🖼️ 软件预览
+
+### 桌面灵动岛与任务球
+
+![LumiTasks 桌面预览](docs/screenshots/overview.png)
+
+### 任务管理与设置
+
+![LumiTasks 设置界面](docs/screenshots/settings.png)
 
 ## 功能
+
 
 - 桌面悬浮灵动岛与任务球，可展开或收起任务展示
 - 创建任务、标记完成、任务分类与自定义分类管理
